@@ -1,4 +1,4 @@
-package com.example.demo.controller.service;
+package com.example.demo.service;
 
 /***
  *  @auther xiadongming
@@ -8,4 +8,6 @@ package com.example.demo.controller.service;
 public interface IUserService {
 
     public String getPoolName();
+    public String getPoolName2();
+    public String getPoolName3();
 }
